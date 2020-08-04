@@ -4,4 +4,4 @@
 
 #### humm..
 
-![statistics.png](https://github-readme-stats.vercel.app/api?username=ms-jpq&show_icons=true)
+![statistics.png](https://github-readme-stats.vercel.app/api?username=ms-jpq&show_icons=true&theme=buefy)
